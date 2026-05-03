@@ -10,7 +10,9 @@ The definition of the “market gap” was iteratively refined from initial loos
 
 ### Project Links
 Notebook: https://colab.research.google.com/drive/1X8rEmItBggjWjLH6IdrARTdWagGjdFUH?usp=sharing
+
 Dashboard: https://market-gap-analysis-dnl8yxrgjmshky5rk5xyam.streamlit.app/
+
 Presentation: https://docs.google.com/presentation/d/1n8MExtP-ZbDDE9dpF3m-TdVCJfq4nR_NIYz0QaMstI0/edit?usp=sharing
 
 ### Data Cleaning
